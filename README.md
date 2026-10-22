@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lyptongee
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning the basics of programming
+- 👋 Hi, I’m Benjamin Korsah
+- 👀 I’m very passionate security in the cyberspace
+- 🌱 I’m currently upscaling my skills in pentesting, vulnerability acessment, didgtal forensics, SOC in a bootcapm with ThinkCludly.
 - 💞️ I’m looking to collaborate on future project.
 
 <!---
